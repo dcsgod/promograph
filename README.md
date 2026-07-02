@@ -16,6 +16,8 @@ revenue if I promote this product?"* - combining:
 Everything runs locally at no cost. Databricks **Free Edition** Genie Spaces are
 supported for the NL-query layer, with a local mock so nothing is blocked.
 
+![alt text](image-1.png)
+
 ## Architecture
 
 | Layer | Component | Tech ($0) |
@@ -29,6 +31,7 @@ supported for the NL-query layer, with a local mock so nothing is blocked.
 
 See [docs/architecture.md](docs/architecture.md) and [docs/schema.md](docs/schema.md).
 
+![alt text](image.png)
 ## Quickstart
 
 ### 0. Prerequisites
